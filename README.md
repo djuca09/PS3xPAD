@@ -1,6 +1,9 @@
 # PS3xPAD Plugin by OsirisX
 A PS3 plugin by OsirisX, that allows using many unsupported Controllers (XBOX,PS4 and others)
 
+#
+Attmepting to add in game support for XBOX 360 Wired Harmonix Rock Band Guitar
+#
 Link: https://www.psx-place.com/resources/ps3xpad.22/
 
 I intended on adding a couple more features into this release but would have added more delay.
